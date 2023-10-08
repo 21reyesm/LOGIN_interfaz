@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+    <string name="texto_boton_acceder">Acceder</string>
+    <string name="hint_email_address">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="inicio_sesion">Inicio de sesión</string>
+    <string name="recuperacion">Recuperacion</string>
+
+</resources>
