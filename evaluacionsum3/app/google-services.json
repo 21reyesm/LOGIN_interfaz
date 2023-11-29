@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688404194798",
+    "project_id": "evs3-6416f",
+    "storage_bucket": "evs3-6416f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688404194798:android:409d79b0f116c15e065aff",
+        "android_client_info": {
+          "package_name": "com.example.evaluacionsum3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-bvYZn61L-_bLU3DfmbDiQZxYIzq7_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
